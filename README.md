@@ -19,7 +19,7 @@ Includes:
 - Screenshots showing bounding box work
 
 Folders:
-- `/Bounding_Boxes/images`  
+- Bounding_Boxes/images  
 - `/Bounding_Boxes/labels`  
 - `/Bounding_Boxes/examples`
 
