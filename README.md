@@ -4,7 +4,9 @@ Hi, I'm Atharv_Mane.
 This repository contains my data annotation samples created with CVAT.
 
 ## 📌 Skills
-- Bounding Boxes (YOLO)
+- Bounding Boxes  
+- Segmentation
+- Skeleton/Keypoints  
 - Image Classification
 - Quality Checking
 - Dataset Organization
@@ -56,6 +58,7 @@ Folders:
 
 - `/Bounding_Boxes/labels`  
 - `/Bounding_Boxes/examples`
+  
 
 ## 🛠 Tools Used
 - CVAT
