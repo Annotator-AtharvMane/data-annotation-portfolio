@@ -1,6 +1,6 @@
 # Data Annotation Portfolio
 
-Hi, I'm Night.  
+Hi, I'm Atharv_Mane.  
 This repository contains my data annotation samples created with CVAT.
 
 ## 📌 Skills
