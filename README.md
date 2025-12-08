@@ -26,6 +26,5 @@ Folders:
 ## 🛠 Tools Used
 - CVAT
 - Label Studio
-- Roboflow (format conversions)
 
 
