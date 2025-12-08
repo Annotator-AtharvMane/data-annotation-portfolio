@@ -19,7 +19,13 @@ Includes:
 - Screenshots showing bounding box work
 
 Folders:
-- `/Bounding_Boxes/images`
+- `/Bounding_Boxes/images`### Image Gallery
+
+![1](images/image1.png)
+![2](images/image2.png)
+![3](images/image3.png)
+...
+
 - `/Bounding_Boxes/labels`  
 - `/Bounding_Boxes/examples`
 
