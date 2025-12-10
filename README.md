@@ -57,7 +57,7 @@ Folders:
 
 
 - `/Bounding_Boxes/labels`
--  [bounding_img31.jpg](images/bounding_img31.jpg)
+-  [Annotation.txt](annotations/jsonformatter.txt)
 - `/Bounding_Boxes/examples`
   
 
