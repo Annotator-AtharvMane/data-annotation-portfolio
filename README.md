@@ -21,7 +21,7 @@ Includes:
 - Screenshots showing bounding box work
 
 Folders:  
-####-- `Raw_Images`--
+#### Raw_Images 
 - [bounding_img1.jpg](images/bounding_img1.jpg)
 - [bounding_img2.jpg](images/bounding_img2.jpg)
 - [bounding_img3.jpg](images/bounding_img3.jpg)
