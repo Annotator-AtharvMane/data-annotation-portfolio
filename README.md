@@ -56,9 +56,44 @@ Folders:
 
 
 
-- `/Bounding_Boxes/labels`
+-- `Annotation File`
 -  [Annotation.txt](annotations/jsonformatter.txt)
-- `/Bounding_Boxes/examples`
+
+  
+-- `Screenshots`
+- [screenshot.1](screenshots/bounding_sc1.png)
+- [screenshot.2](screenshots/bounding_sc2.png)
+- [screenshot.3](screenshots/bounding_sc3.png)
+- [screenshot.4](screenshots/bounding_sc4.png)
+- [screenshot.5](screenshots/bounding_sc5.png)
+- [screenshot.6](screenshots/bounding_sc6.png)
+- [screenshot.7](screenshots/bounding_sc7.png)
+- [screenshot.8](screenshots/bounding_sc8.png)
+- [screenshot.9](screenshots/bounding_sc9.png)
+- [screenshot.10](screenshots/bounding_sc10.png)
+- [screenshot.11](screenshots/bounding_sc11.png)
+- [screenshot.12](screenshots/bounding_sc12.png)
+- [screenshot.13](screenshots/bounding_sc13.png)
+- [screenshot.14](screenshots/bounding_sc14.png)
+- [screenshot.15](screenshots/bounding_sc15.png)
+- [screenshot.16](screenshots/bounding_sc16.png)
+- [screenshot.17](screenshots/bounding_sc17.png)
+- [screenshot.18](screenshots/bounding_sc18.png)
+- [screenshot.19](screenshots/bounding_sc19.png)
+- [screenshot.20](screenshots/bounding_sc20.png)
+- [screenshot.21](screenshots/bounding_sc21.png)
+- [screenshot.22](screenshots/bounding_sc22.png)
+- [screenshot.23](screenshots/bounding_sc23.png)
+- [screenshot.24](screenshots/bounding_sc24.png)
+- [screenshot.25](screenshots/bounding_sc25.png)
+- [screenshot.26](screenshots/bounding_sc26.png)
+- [screenshot.27](screenshots/bounding_sc27.png)
+- [screenshot.28](screenshots/bounding_sc28.png)
+- [screenshot.29](screenshots/bounding_sc29.png)
+- [screenshot.30](screenshots/bounding_sc30.png)
+- [screenshot.31](screenshots/bounding_sc31.png)
+
+
   
 
 ## 🛠 Tools Used
