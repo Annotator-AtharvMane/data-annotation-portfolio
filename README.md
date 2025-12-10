@@ -16,7 +16,7 @@ This repository contains my data annotation samples created with CVAT.
 
 ### 1️⃣ Bounding Boxes (31 Images)
 Includes:
-- YOLO format annotations (.txt)
+- COCO format annotations (.txt)
 - Original images
 - Screenshots showing bounding box work
 
@@ -56,11 +56,11 @@ Folders:
 
 
 
--- `Annotation File`
+-- `Annotation File`--
 -  [Annotation.txt](annotations/jsonformatter.txt)
 
   
--- `Screenshots`
+-- `Screenshots`--
 - [screenshot.1](screenshots/bounding_sc1.png)
 - [screenshot.2](screenshots/bounding_sc2.png)
 - [screenshot.3](screenshots/bounding_sc3.png)
