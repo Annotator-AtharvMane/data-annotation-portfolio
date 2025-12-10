@@ -54,12 +54,9 @@ Folders:
 - [bounding_img30.jpg](images/bounding_img30.jpg)
 - [bounding_img31.jpg](images/bounding_img31.jpg)
 
-
-
 -- `Annotation File`--
 -  [Annotation.txt](annotations/jsonformatter.txt)
-
-  
+ 
 -- `Screenshots`--
 - [screenshot.1](screenshots/bounding_sc1.png)
 - [screenshot.2](screenshots/bounding_sc2.png)
@@ -94,6 +91,20 @@ Folders:
 - [screenshot.31](screenshots/bounding_sc31.png)
 
 
+### 2️⃣ Segmentation (14 Images)
+Includes:
+- COCO format annotations (.txt)
+- Original images
+- Screenshots showing process of sementaion work
+
+Folders:
+-- `Raw_Images`--
+
+
+-- `Annotation File`--
+
+
+-- `screenshots`--
   
 
 ## 🛠 Tools Used
