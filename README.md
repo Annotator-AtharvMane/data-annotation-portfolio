@@ -56,7 +56,8 @@ Folders:
 
 
 
-- `/Bounding_Boxes/labels`  
+- `/Bounding_Boxes/labels`
+-  [bounding_img31.jpg](images/bounding_img31.jpg)
 - `/Bounding_Boxes/examples`
   
 
