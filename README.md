@@ -16,7 +16,7 @@ This repository contains my data annotation samples created with CVAT.
 
 ### 1️⃣ Bounding Boxes (31 Images)
 Includes:
-- COCO format annotations (.txt)
+- JSON format annotations (.txt)
 - Original images
 - Screenshots showing bounding box work
 
@@ -93,7 +93,7 @@ Folders:
 
 ### 2️⃣ Segmentation (14 Images)
 Includes:
-- COCO format annotations (.txt)
+- JSON format annotations (.txt)
 - Original images
 - Screenshots showing process of sementaion work
 
