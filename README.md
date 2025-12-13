@@ -114,11 +114,9 @@ Folders:
 - [Segmentation_image13.jpg](images/segment_img13.jpg)
 - [Segmentation_image14.jpg](images/segment_img14.jpg)
 
-
-
-
 -- `Annotation File`--
-
+-  [Annotation.txt](annotations/segmentation_annotationjson.txt
+)
 
 -- `screenshots`--
 - [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
