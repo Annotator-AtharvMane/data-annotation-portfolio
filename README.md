@@ -137,6 +137,6 @@ Folders:
 
 ## 🛠 Tools Used
 - CVAT
-- Label Studio
+- Json Formatter
 
 
