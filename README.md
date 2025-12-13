@@ -121,7 +121,21 @@ Folders:
 
 
 -- `screenshots`--
-  
+- [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
+- [Segmentation_Screenshot02.png](screenshots/segmentation_SC02.png)
+- [Segmentation_Screenshot03.png](screenshots/segmentation_SC03.png)
+- [Segmentation_Screenshot04.png](screenshots/segmentation_SC04.png)
+- [Segmentation_Screenshot05.png](screenshots/segmentation_SC05.png)
+- [Segmentation_Screenshot06.png](screenshots/segmentation_SC06.png)
+- [Segmentation_Screenshot07.png](screenshots/segmentation_SC07.png)
+- [Segmentation_Screenshot08.png](screenshots/segmentation_SC08.png)
+- [Segmentation_Screenshot09.png](screenshots/segmentation_SC09.png)
+- [Segmentation_Screenshot10.png](screenshots/segmentation_SC10.png)
+- [Segmentation_Screenshot11.png](screenshots/segmentation_SC11.png)
+- [Segmentation_Screenshot12.png](screenshots/segmentation_SC12.png)
+- [Segmentation_Screenshot13.png](screenshots/segmentation_SC13.png)
+- [Segmentation_Screenshot14.png](screenshots/segmentation_SC14.png)
+ 
 
 ## 🛠 Tools Used
 - CVAT
