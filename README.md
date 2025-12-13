@@ -99,20 +99,20 @@ Includes:
 
 Folders:
 -- `Raw_Images`--
-- [Segmentation_image1.jpg](images/segment-image01.jpg)
-- [Segmentation_image2.jpg](images/segment-image02.jpg)
-- [Segmentation_image3.jpg](images/segment-image03.jpg)
-- [Segmentation_image4.jpg](images/segment-image04.jpg)
-- [Segmentation_image5.jpg](images/segment-image05.jpg)
-- [Segmentation_image6.jpg](images/segment-image06.jpg)
-- [Segmentation_image7.jpg](images/segment-image07.jpg)
-- [Segmentation_image8.jpg](images/segment-image08.jpg)
-- [Segmentation_image9.jpg](images/segment-image09.jpg)
-- [Segmentation_image10.jpg](images/segment-image10.jpg)
-- [Segmentation_image11.jpg](images/segment-image11.jpg)
-- [Segmentation_image12.jpg](images/segment-image12.jpg)
-- [Segmentation_image13.jpg](images/segment-image13.jpg)
-- [Segmentation_image14.jpg](images/segment-image14.jpg)
+- [Segmentation_image1.jpg](images/segment_image01.jpg)
+- [Segmentation_image2.jpg](images/segment_image02.jpg)
+- [Segmentation_image3.jpg](images/segment_image03.jpg)
+- [Segmentation_image4.jpg](images/segment_image04.jpg)
+- [Segmentation_image5.jpg](images/segment_image05.jpg)
+- [Segmentation_image6.jpg](images/segment_image06.jpg)
+- [Segmentation_image7.jpg](images/segment_image07.jpg)
+- [Segmentation_image8.jpg](images/segment_image08.jpg)
+- [Segmentation_image9.jpg](images/segment_image09.jpg)
+- [Segmentation_image10.jpg](images/segment_image10.jpg)
+- [Segmentation_image11.jpg](images/segment_image11.jpg)
+- [Segmentation_image12.jpg](images/segment_image12.jpg)
+- [Segmentation_image13.jpg](images/segment_image13.jpg)
+- [Segmentation_image14.jpg](images/segment_image14.jpg)
 
 
 -- `Annotation File`--
