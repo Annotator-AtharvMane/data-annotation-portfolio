@@ -134,6 +134,19 @@ Folders:
 - [Segmentation_Screenshot13.png](screenshots/segmentation_SC13.png)
 - [Segmentation_Screenshot14.png](screenshots/segmentation_SC14.png)
  
+### 3️⃣ Segmentation (14 Images)
+Includes:
+- JSON format annotations (.txt)
+- Original images
+- Screenshots showing process of sementaion work
+
+Folders:   
+#### ⭐ Raw_Images
+
+#### ⭐ Annotation File
+
+#### ⭐ screenshots
+
 
 ## 🛠 Tools Used
 - CVAT
