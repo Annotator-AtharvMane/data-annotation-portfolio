@@ -8,6 +8,7 @@ This repository contains my data annotation samples created with CVAT.
 - Segmentation
 - Skeleton/Keypoints  
 - Image Classification
+- Image Tagging 
 - Quality Checking
 - Dataset Organization
 - Export Formats: YOLO, CVAT XML, COCO JSON
