@@ -134,15 +134,24 @@ Folders:
 - [Segmentation_Screenshot13.png](screenshots/segmentation_SC13.png)
 - [Segmentation_Screenshot14.png](screenshots/segmentation_SC14.png)
  
-### 3️⃣ Segmentation (9 Images)
+### 3️⃣ skeletons (9 Images)
 Includes:
 - JSON format annotations (.txt)
 - Original images
-- Screenshots showing process of sementaion work
+- Screenshots showing process of keypoints work
 
 Folders:   
 #### ⭐ Raw_Images
-- [Segmentation_image1.jpg](images/segment_img01.jpg)
+- [Skeleton_image1.jpg](images/skeleton_img01.jpg)
+- [Skeleton_image2.jpg](images/skeleton_img02.jpg)
+- [Skeleton_image3.jpg](images/skeleton_img03.jpg)
+- [Skeleton_image4.jpg](images/skeleton_img04.jpg)
+- [Skeleton_image5.jpg](images/skeleton_img05.jpg)
+- [Skeleton_image6.jpg](images/skeleton_img06.jpg)
+- [Skeleton_image7.jpg](images/skeleton_img07.jpg)
+- [Skeleton_image8.jpg](images/skeleton_img08.jpg)
+- [Skeleton_image9.jpg](images/skeleton_img09.jpg)
+
 
 #### ⭐ Annotation File
 -  [Annotation.txt](annotations/segmentation_annotationjson.txt
