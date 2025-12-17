@@ -153,8 +153,8 @@ Folders:
 - [Skeleton_image9.jpg](images/skeleton_img9.jpg)
 
 #### ⭐ Annotation File
--  [Annotation.txt](annotations/segmentation_annotationjson.txt
-)
+-  [Annotation.txt](annotations/keypoints_annotation.txt)
+  
 #### ⭐ screenshots
 - [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
 
