@@ -142,16 +142,15 @@ Includes:
 
 Folders:   
 #### ⭐ Raw_Images
-- [Skeleton_image1.jpg](images/skeleton_img01.jpg)
-- [Skeleton_image2.jpg](images/skeleton_img02.jpg)
-- [Skeleton_image3.jpg](images/skeleton_img03.jpg)
-- [Skeleton_image4.jpg](images/skeleton_img04.jpg)
-- [Skeleton_image5.jpg](images/skeleton_img05.jpg)
-- [Skeleton_image6.jpg](images/skeleton_img06.jpg)
-- [Skeleton_image7.jpg](images/skeleton_img07.jpg)
-- [Skeleton_image8.jpg](images/skeleton_img08.jpg)
-- [Skeleton_image9.jpg](images/skeleton_img09.jpg)
-
+- [Skeleton_image1.jpg](images/skeleton_img1.jpg)
+- [Skeleton_image2.jpg](images/skeleton_img2.jpg)
+- [Skeleton_image3.jpg](images/skeleton_img3.jpg)
+- [Skeleton_image4.jpg](images/skeleton_img4.jpg)
+- [Skeleton_image5.jpg](images/skeleton_img5.jpg)
+- [Skeleton_image6.jpg](images/skeleton_img6.jpg)
+- [Skeleton_image7.jpg](images/skeleton_img7.jpg)
+- [Skeleton_image8.jpg](images/skeleton_img8.jpg)
+- [Skeleton_image9.jpg](images/skeleton_img9.jpg)
 
 #### ⭐ Annotation File
 -  [Annotation.txt](annotations/segmentation_annotationjson.txt
