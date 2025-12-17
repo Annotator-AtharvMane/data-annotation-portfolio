@@ -142,10 +142,13 @@ Includes:
 
 Folders:   
 #### ⭐ Raw_Images
+- [Segmentation_image1.jpg](images/segment_img01.jpg)
 
 #### ⭐ Annotation File
-
+-  [Annotation.txt](annotations/segmentation_annotationjson.txt
+)
 #### ⭐ screenshots
+- [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
 
 
 ## 🛠 Tools Used
