@@ -21,7 +21,7 @@ Includes:
 - Screenshots showing bounding box work
 
 Folders:  
-#### ⭐ Raw_Images 
+#### 🖼️ Raw_Images 
 - [bounding_img01.jpg](images/bounding_img01.jpg)
 - [bounding_img02.jpg](images/bounding_img02.jpg)
 - [bounding_img03.jpg](images/bounding_img03.jpg)
@@ -54,10 +54,10 @@ Folders:
 - [bounding_img30.jpg](images/bounding_img30.jpg)
 - [bounding_img31.jpg](images/bounding_img31.jpg)
 
-#### ⭐ Annotation File
+#### 🏷️ Annotation File
 -  [Annotation.txt](annotations/jsonformatter.txt)
  
-#### ⭐ Screenshots
+#### 📸 Screenshots
 - [screenshot.01](screenshots/bounding_sc01.png)
 - [screenshot.02](screenshots/bounding_sc02.png)
 - [screenshot.03](screenshots/bounding_sc03.png)
@@ -98,7 +98,7 @@ Includes:
 - Screenshots showing process of sementaion work
 
 Folders:   
-#### ⭐ Raw_Images
+#### 🖼️ Raw_Images
 - [Segmentation_image1.jpg](images/segment_img01.jpg)
 - [Segmentation_image2.jpg](images/segment_img02.jpg)
 - [Segmentation_image3.jpg](images/segment_img03.jpg)
@@ -114,11 +114,11 @@ Folders:
 - [Segmentation_image13.jpg](images/segment_img13.jpg)
 - [Segmentation_image14.jpg](images/segment_img14.jpg)
 
-#### ⭐ Annotation File
+#### 🏷️ Annotation File
 -  [Annotation.txt](annotations/segmentation_annotationjson.txt
 )
 
-#### ⭐ screenshots
+#### 📸 screenshots
 - [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
 - [Segmentation_Screenshot02.png](screenshots/segmentation_SC02.png)
 - [Segmentation_Screenshot03.png](screenshots/segmentation_SC03.png)
@@ -141,7 +141,7 @@ Includes:
 - Screenshots showing process of keypoints work
 
 Folders:   
-#### ⭐ Raw_Images
+#### 🖼️ Raw_Images
 - [Skeleton_image1.jpg](images/skeleton_img1.jpg)
 - [Skeleton_image2.jpg](images/skeleton_img2.jpg)
 - [Skeleton_image3.jpg](images/skeleton_img3.jpg)
@@ -152,10 +152,10 @@ Folders:
 - [Skeleton_image8.jpg](images/skeleton_img8.jpg)
 - [Skeleton_image9.jpg](images/skeleton_img9.jpg)
 
-#### ⭐ Annotation File
+#### 🏷️ Annotation File
 -  [Annotation.txt](annotations/keypoints_annotation.txt)
   
-#### ⭐ screenshots
+#### 📸 screenshots
 - [Skeleton_Screenshot1.png](screenshots/keypoints_SC1.png)
 - [Skeleton_Screenshot2.png](screenshots/keypoints_SC2.png)
 - [Skeleton_Screenshot3.png](screenshots/keypoints_SC3.png)
