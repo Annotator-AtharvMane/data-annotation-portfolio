@@ -156,7 +156,15 @@ Folders:
 -  [Annotation.txt](annotations/keypoints_annotation.txt)
   
 #### ⭐ screenshots
-- [Segmentation_Screenshot01.png](screenshots/segmentation_SC01.png)
+- [Skeleton_Screenshot1.png](screenshots/keypoint_SC1.png)
+- [Skeleton_Screenshot2.png](screenshots/keypoint_SC2.png)
+- [Skeleton_Screenshot3.png](screenshots/keypoint_SC3.png)
+- [Skeleton_Screenshot4.png](screenshots/keypoint_SC4.png)
+- [Skeleton_Screenshot5.png](screenshots/keypoint_SC5.png)
+- [Skeleton_Screenshot6.png](screenshots/keypoint_SC6.png)
+- [Skeleton_Screenshot7.png](screenshots/keypoint_SC7.png)
+- [Skeleton_Screenshot8.png](screenshots/keypoint_SC8.png)
+- [Skeleton_Screenshot9.png](screenshots/keypoint_SC9.png)
 
 
 ## 🛠 Tools Used
